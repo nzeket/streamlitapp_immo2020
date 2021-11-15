@@ -3,7 +3,4 @@ pandas
 matplotlib
 seaborn
 streamlit
-plotly.express
-plotly.graph_objects
-altair
-matplotlib.pyplot
+plotly

@@ -10,7 +10,7 @@ from PIL import Image
 
 
 
-path2020 = "C:\\Users\\Aicha Nzeket\\Desktop\\streamlit-dataset\\df2020.csv"
+path2020 = "df2020.csv"
 data2020 = pd.read_csv(path2020)
 
 
